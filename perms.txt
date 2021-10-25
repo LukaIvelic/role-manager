@@ -1,3 +1,4 @@
-627428057648726019
-615253220574625793
-402127492619436032
+//in this file you paste your Discord profile ID
+//for example: 
+[User1_ID]
+[User2_ID]
