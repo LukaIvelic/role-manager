@@ -1,0 +1,2 @@
+# Role-Manager
+Role Manager is a simple Discord Bot to manage server roles. It can only send messages in a text channel called reaction-roles. It can also assign or remove roles. Role Manager Discord Bot isn't made to be in more than 2 servers due to not having a proper server management system. This project is uploaded so you can see my way of making a bot that operates with roles with Discord API.
