@@ -1,0 +1,16 @@
+to speak 
+connect
+speak
+video
+use voice activity
+mention 
+read message history
+use application commands
+embed links
+add reactions
+use external emojis
+create invite
+change nickname
+send messages
+allow anyone to emntion this role
+view channels
